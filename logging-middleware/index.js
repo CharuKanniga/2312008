@@ -1,0 +1,17 @@
+const {
+    Log,
+    ALLOWED_STACKS,
+    ALLOWED_LEVELS,
+    BACKEND_PACKAGES,
+    FRONTEND_PACKAGES,
+    COMMON_PACKAGES
+} = require("./logger");
+
+module.exports = {
+    Log,
+    ALLOWED_STACKS,
+    ALLOWED_LEVELS,
+    BACKEND_PACKAGES,
+    FRONTEND_PACKAGES,
+    COMMON_PACKAGES
+};
